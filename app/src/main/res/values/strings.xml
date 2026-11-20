@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Gajananam</string>
+    <string name="subtitle_invitation">गजाननं भूतगणादिसेवितम्</string>
+    <string name="tab_shloka">Shloka</string>
+    <string name="tab_japa">Japa Mala</string>
+    <string name="tab_stotras">Stotras</string>
+    <string name="tab_puja">Aarti &amp; Puja</string>
+</resources>

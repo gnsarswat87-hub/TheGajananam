@@ -1,0 +1,6 @@
+{
+  "name": "The Gajananam",
+  "description": "Sacred sanctuary for the Gajananam shloka, Lord Ganesha stotras, 108 Japa mala counter, audio bell chimes, and interactive puja offerings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
